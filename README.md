@@ -13,3 +13,7 @@ http://bit.ly/TvPeru73-TvNinjaxD?Peru.m3u8
 http://bit.ly/Rpp-TvNinjaxD?Peru.m3u8
 #EXTINF:-1,capital
 http://bit.ly/Capital-TvNinjaxD?Peru.m3u8
+#EXTINF:-1,cartoon network
+https://live56.vkuserlive.com/639904/live/B18eNlNDfE9B9mYO/playlist.m3u8
+#EXTINF:-1,Disney Channel
+https://live58.vkuserlive.com/637604/live/1s2M52NAf3_nsF86/playlist.m3u8
