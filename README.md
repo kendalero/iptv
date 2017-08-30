@@ -19,25 +19,20 @@ http://bit.ly/TvPeru73-TvNinjaxD?Peru.m3u8
 http://d1gsv35shoz9yr.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
 
 
-#EXTINF:-1, ATV HD
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
+
 
 
 #EXTINF:-1, ATV +
 http://d1gsv35shoz9yr.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 
-#EXTINF:-1, IPe
-http://cdnh15.iblups.com/hls/irtp.m3u8
 
 
-#EXTINF:-1, NexTV
-http://d2ojguqgd62rcn.cloudfront.net/pe/smil:nx.smil/playlist.m3u8
+
 
 #EXTINF:-1, Willax TV
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/com
-mons/b/b1/Rbc.jpg",RBC
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rbc.jpg",RBC
 rtmp://184.154.28.210/rbc-tv//rbc-tv
 
 #EXTINF:-1,rpp
@@ -57,13 +52,6 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689
 
 #EXTINF:-1, tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_(2006_-).jpg",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-IsMXaB0KMLY/Vw6LrdgufSI/AAAAAAAAAYg/xU0cbnPKSu4AAmODsmy96t-335_M050KACLcB/s1600/directvsports.jpg",Directv Sports
-https://live92.vkuserlive.com/613504/live/0xhZ4rlAf6VMS1EW/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",24/7 Gravity Falls (VOD)
-http://stream.latino-webtv.com/series/gravityfalls.mp4
-
 
 #EXTINF:-1,cartoon network
 https://live56.vkuserlive.com/639904/live/B18eNlNDfE9B9mYO/playlist.m3u8
