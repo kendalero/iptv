@@ -17,4 +17,5 @@ http://bit.ly/Capital-TvNinjaxD?Peru.m3u8
 https://live56.vkuserlive.com/639904/live/B18eNlNDfE9B9mYO/playlist.m3u8
 #EXTINF:-1,Disney Channel
 https://live58.vkuserlive.com/637604/live/1s2M52NAf3_nsF86/playlist.m3u8
+#EXTINF:-1, HBO PLUS
 http://23.237.22.155/3/U2FsdGVkX18eaOZ8cCOFStX1oIp1T0807FgwbepaF%2B9GPcYBZ%2F%2BEsi72aCWD%2BYBx%2FuuG8IujZi30pq0pKDb2jQ%3D%3D/playlist.m3u8
