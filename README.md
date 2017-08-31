@@ -3,8 +3,8 @@
 #EXTINF:1,2 FRECUENCIA LATINA"
 https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8
 
-#EXTINF:-1,america tv
-https://live84.vkuserlive.com/639905/live/EVsaICVAfznIWn8p/playlist.m3u8
+#EXTINF:-1, AMERICA TV
+https://live83.vkuserlive.com/620009/live/yDl4-SlAfzXHoUAV/playlist.m3u8
 
 #EXTINF:-1,panamericana
 http://bit.ly/Panel-TvNinjaxD?Peru.m3u8
@@ -27,12 +27,17 @@ http://d1gsv35shoz9yr.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u
 
 
 
-
+#EXTINF:-1, GOL PERU
+http://23.237.22.159/3/U2FsdGVkX1%2FDVXRq5HzA5kZPII4r3Q%2F4lWLMsCRN8ee%2F7nuwdxpL3vMHHIadkpdeEbibG7dDDSxFc8pk9ksfsw%3D%3D/playlist.m3u8
 
 #EXTINF:-1, Willax TV
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rbc.jpg",RBC
+#EXTINF:-1, ipe
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:-1, RBC
 rtmp://184.154.28.210/rbc-tv//rbc-tv
 
 #EXTINF:-1,rpp
@@ -61,3 +66,8 @@ https://live58.vkuserlive.com/637604/live/1s2M52NAf3_nsF86/playlist.m3u8
 
 #EXTINF:-1, HBO PLUS
 http://23.237.22.155/3/U2FsdGVkX18eaOZ8cCOFStX1oIp1T0807FgwbepaF%2B9GPcYBZ%2F%2BEsi72aCWD%2BYBx%2FuuG8IujZi30pq0pKDb2jQ%3D%3D/playlist.m3u8
+
+
+
+#EXTINF:-1, AMC
+http://edgooo3.telesport.pw/live/amc/index.m3u8
