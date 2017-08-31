@@ -62,12 +62,12 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 https://live56.vkuserlive.com/639904/live/B18eNlNDfE9B9mYO/playlist.m3u8
 
 #EXTINF:-1,Disney Channel
-https://live58.vkuserlive.com/637604/live/1s2M52NAf3_nsF86/playlist.m3u8
+https://live58.vkuserlive.com/639905/live/1s2M52NAf3_nsF86/playlist.m3u8
 
 #EXTINF:-1, HBO PLUS
 http://23.237.22.155/3/U2FsdGVkX18eaOZ8cCOFStX1oIp1T0807FgwbepaF%2B9GPcYBZ%2F%2BEsi72aCWD%2BYBx%2FuuG8IujZi30pq0pKDb2jQ%3D%3D/playlist.m3u8
 
 
 
-#EXTINF:-1, AMC
-http://edgooo3.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1, DIREC SPORT
+http://178.162.199.73:8088/live/diretcv65200/playlist.m3u8?id=94265&wowzasessionid=7829139778&pk=1ed5e9f3ae77ee0a8fa70c0d1e5149d1120137d77d6fd2f7fbc2fe6085e7f8f6
